@@ -1,6 +1,6 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/pexels-karolina-grabowska-7875996.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/pexels-karolina-grabowska-7875996.jpg");
+  background-position: 64.35% 97.85%;
   background-size: auto 110%;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 389px;
+  min-height: 449px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -25,9 +25,9 @@
   font-style: italic;
   font-size: 2.25rem;
   transition-duration: 6s;
+  font-weight: 700;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  font-weight: 400;
-  margin: 45px 1px 0;
+  margin: 0 -7px 0 9px;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -39,6 +39,7 @@
 }
 
 .u-section-1 .u-text-2 {
+  font-size: 1.125rem;
   margin: 13px 2px 0 0;
 }
 
@@ -48,7 +49,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 462px;
+    min-height: 535px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -58,7 +59,6 @@
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: 30px;
     margin-left: 0;
     margin-right: 0;
   }
@@ -73,8 +73,12 @@
 }
 
 @media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 55.51% 91.92%;
+  }
+
   .u-section-1 .u-sheet-1 {
-    min-height: 961px;
+    min-height: 1055px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -82,7 +86,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 564px;
+    min-height: 650px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -90,17 +94,16 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-text-1 {
-    margin-top: 0;
-    font-weight: normal;
-  }
-
   .u-section-1 .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 650px;
   }
 }
 
 @media (max-width: 767px) {
+   .u-section-1 {
+    background-position: 54.12% 100%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 1023px;
   }
@@ -125,6 +128,10 @@
     margin-right: auto;
   }
 
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
   .u-section-1 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
@@ -132,6 +139,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 54.53% 100%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 1240px;
   }
@@ -158,12 +169,12 @@
 
 .u-section-1 .u-container-layout:hover .u-text-1 {
   transform: scale(1.21) translateX(0px) translateY(0px) !important;
-  color: #b29a36 !important;
+  color: #197c1f !important;
 }
 
 .u-container-layout.hover .u-section-1 .u-text-1 {
   transform: scale(1.21) translateX(0px) translateY(0px) !important;
-  color: #b29a36 !important;
+  color: #197c1f !important;
 } .u-section-2 {
   background-image: none;
 }
