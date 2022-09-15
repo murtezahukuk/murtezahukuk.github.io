@@ -38499,12 +38499,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 247px;
+  min-height: 255px;
 }
 
 .u-header .u-menu-1 {
   font-family: size-14;
-  margin: 187px 0 0 auto;
+  margin: 209px 9px 0 auto;
 }
 
 .u-header .u-file-icon-1 {
@@ -38524,65 +38524,52 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 525px;
-  height: 211px;
-  margin: -211px auto 26px;
+  width: 552px;
+  height: 253px;
+  margin: -245px auto 5px 274px;
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 216px;
-  }
-
   .u-header .u-menu-1 {
-    width: auto;
-    margin-top: 168px;
-    margin-right: 0;
+    margin-right: 9px;
   }
 
   .u-header .u-image-1 {
-    width: 485px;
-    height: 173px;
-    margin-top: -172px;
-    margin-bottom: 14px;
+    width: 552px;
+    height: 253px;
+    margin-top: -245px;
+    margin-left: 274px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 248px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: 203px;
-    margin-right: auto;
+    min-height: 210px;
   }
 
   .u-header .u-image-1 {
-    margin-top: -220px;
-    margin-bottom: 58px;
+    margin-left: 168px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 278px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: 231px;
+    min-height: 204px;
   }
 
   .u-header .u-image-1 {
-    margin-top: -225px;
-    margin-bottom: 60px;
+    width: 540px;
+    height: 248px;
+    margin-left: 0;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 224px;
+    min-height: 202px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 174px;
-    margin-left: -25px;
+    width: auto;
+    margin-top: 137px;
+    margin-right: auto;
+    margin-left: 0;
   }
 
   .u-header .u-file-icon-1 {
@@ -38591,13 +38578,15 @@ a.u-link.u-text-hover-grey-90:hover {
     padding-right: 25px;
   }
 
+  .u-header .u-nav-2 {
+    margin: 21px auto 0;
+  }
+
   .u-header .u-image-1 {
-    height: 188px;
-    margin-top: -188px;
-    margin-bottom: 20px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 340px;
+    height: 156px;
+    margin-top: -173px;
+    margin-bottom: 50px;
   }
 }
  .u-footer {

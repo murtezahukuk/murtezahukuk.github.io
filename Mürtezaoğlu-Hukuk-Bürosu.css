@@ -1,51 +1,33 @@
  .u-section-1 {
-  background-image: url("images/pexels-karolina-grabowska-7875996.jpg");
-  background-position: 64.35% 97.85%;
-  background-size: auto 110%;
+  background-image: url("images/ee6e48544a3dae9bf8a56869b55d9aa5de542e0763f65975493aaf7e187f1737dabfe43f971993120517c976b0e8313087aafcfa075c08c162d65b_1280.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 836px;
+  min-height: 876px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 367px;
-  margin-bottom: 60px;
+  margin-bottom: 15px;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 449px;
+  min-height: 494px;
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 30px;
+  padding: 0 30px;
 }
 
 .u-section-1 .u-text-1 {
-  font-style: italic;
-  font-size: 2.25rem;
-  transition-duration: 6s;
-  font-weight: 700;
-  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 0 -7px 0 9px;
-}
-
-.u-section-1 .u-layout-cell-2 {
-  min-height: 389px;
-}
-
-.u-section-1 .u-container-layout-2 {
-  padding: 30px;
-}
-
-.u-section-1 .u-text-2 {
   font-size: 1.125rem;
-  margin: 13px 2px 0 0;
+  margin: 0 12px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 589px;
+    min-height: 910px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -58,31 +40,14 @@
   }
 
   .u-section-1 .u-text-1 {
-    width: auto;
     margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 365px;
-  }
-
-  .u-section-1 .u-text-2 {
     margin-right: 0;
   }
 }
 
 @media (max-width: 991px) {
-   .u-section-1 {
-    background-position: 55.51% 91.92%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 1055px;
-  }
-
-  .u-section-1 .u-layout-wrap-1 {
-    margin-top: 345px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -93,88 +58,31 @@
     padding-left: 10px;
     padding-right: 10px;
   }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 650px;
-  }
 }
 
 @media (max-width: 767px) {
-   .u-section-1 {
-    background-position: 54.12% 100%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 1023px;
   }
 
-  .u-section-1 .u-layout-wrap-1 {
-    margin-top: 302px;
-    margin-bottom: 40px;
-  }
-
   .u-section-1 .u-layout-cell-1 {
-    min-height: 260px;
+    min-height: 100px;
   }
 
   .u-section-1 .u-container-layout-1 {
     padding-left: 3px;
     padding-right: 3px;
   }
-
-  .u-section-1 .u-text-1 {
-    width: 247px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-
-  .u-section-1 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
 }
 
 @media (max-width: 575px) {
-   .u-section-1 {
-    background-position: 54.53% 100%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 1240px;
-  }
-
-  .u-section-1 .u-layout-wrap-1 {
-    margin-top: 256px;
-    margin-bottom: 20px;
   }
 
   .u-section-1 .u-layout-cell-1 {
     min-height: 303px;
   }
-
-  .u-section-1 .u-text-1 {
-    width: 221px;
-  }
-}
-
-.u-section-1 .u-text-1,
-.u-section-1 .u-text-1:before,
-.u-section-1 .u-text-1 > .u-container-layout:before {
-  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
-}
-
-.u-section-1 .u-container-layout:hover .u-text-1 {
-  transform: scale(1.21) translateX(0px) translateY(0px) !important;
-  color: #197c1f !important;
-}
-
-.u-container-layout.hover .u-section-1 .u-text-1 {
-  transform: scale(1.21) translateX(0px) translateY(0px) !important;
-  color: #197c1f !important;
 } .u-section-2 {
   background-image: none;
 }
